@@ -1,3 +1,3 @@
 # Privacy Policy  
   
-**Vendodigital** does not collect and transmit user data of any kind over the internet, storage device and any other digital medium. Data input is limited to alias name and chat messages for information display in application session.
+**Vendodigital** does not collect and transmit user data of any kind over the internet, any communication medium, any digital medium and storage devices. Data input is limited to alias names and chat messages only, for information display within active or saved session.
